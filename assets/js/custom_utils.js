@@ -49,6 +49,9 @@ frases = {
       "Indicate where the subject stands in relation to other children of the same sex and age.": "Indican en qué lugar se encuentra el sujeto con respecto a otros niños o niñas de su mismo sexo y edad.",
       "Weight percentiles for height and body mass index": "Percentiles de peso para la altura e índice de masa corporal",
       "These indexes, by relating weight to the height of the same person, give us a more adequate idea of their nutritional status, whether excess or deficit.": "Estos índices, al relacionar el peso con la altura de una misma persona, nos dan una idea más adecuada de su estado nutricional, por exceso o déficit.",
+      "CompassPro": "CompassPro",
+      "CompassPro is the most accurate compass application on Google Play. Use it on your trips, to get to unfamiliar places or when you get lost.": "CompassPro es la aplicación de brújula más precisa en Google Play. Úsala en tus viajes, para llegar a sitios desconocidos o cuando te pierdas.",
+      "CompassPro is very easy to use: Just use it like a real compass.": "CompassPro es muy fácil de usar: Úsala como una brújula real."
     }
 };
 
